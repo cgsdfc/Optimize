@@ -1,1 +1,0 @@
-file(GLOB TEST_SOURCES src/*.c)
